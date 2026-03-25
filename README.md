@@ -23,6 +23,15 @@ I am currently developing my skills in Python, data visualization, and analysis 
 
 ---
 
+### 📝 Java Task Manager
+
+- Developed a task management system using Java
+- Built an interactive terminal-based interface
+- Applied object-oriented programming (OOP) principles
+- Implemented file persistence for data storage
+
+👉 [View Project](https://github.com/Jessicaribeiro03/java-task-manager)
+
 ## 🌐 Live Portfolio
 👉 (......)
 
