@@ -4,8 +4,17 @@ Welcome to my personal portfolio website! ✨
 This project showcases my work, skills, and projects in Data Analysis.
 
 ## 🌙 About Me
-I am a Data Analyst student passionate about turning data into meaningful insights.  
-I am currently developing my skills in Python, data visualization, and analysis to enter the tech industry.
+
+# Hi, I'm Jessica 👋
+
+🎓 Systems Development student  
+💻 Aspiring Data Scientist  
+📊 Passionate about data analysis and backend development  
+
+🚀 Currently learning:
+- Python for Data Analysis
+- SQL and Databases
+- Java (OOP and backend fundamentals)
 
 ## ✨ Technologies Used
 - HTML5
@@ -15,9 +24,10 @@ I am currently developing my skills in Python, data visualization, and analysis 
 ## 💫 Projects
 
 ### 🔮 Netflix Data Analysis
-- Analyzed Netflix movies and TV shows dataset  
-- Identified top genres and trends over the years  
-- Created visualizations using Python  
+
+- Analyzed a real-world Netflix dataset using Python
+- Identified trends in genres, releases, and content distribution
+- Created data visualizations to support insights
 
 👉 [View Project](https://github.com/Jessicaribeiro03/Netflix-Data-Analysis-Project)
 
@@ -32,11 +42,25 @@ I am currently developing my skills in Python, data visualization, and analysis 
 
 👉 [View Project](https://github.com/Jessicaribeiro03/java-task-manager)
 
+## 🛠️ Skills
+
+- Python (Pandas, Matplotlib)
+- SQL (basic queries)
+- Java (OOP, file handling)
+- Git & GitHub
+
+## 📚 Currently Learning
+
+- Data Science fundamentals
+- Machine Learning basics
+- Backend development with Java
+
 ## 🌐 Live Portfolio
-👉 (......)
+👉 (https://jessicaribeiro03.github.io/Portfolio/)
 
 ## 🧙‍♀️ Contact
 - LinkedIn: https://www.linkedin.com/in/jessica-ribeiro-316088210/ 
+- Email: jessicaribc03@gmail.com
 - GitHub: https://github.com/Jessicaribeiro03 
 
 ## ✨ Future Improvements
