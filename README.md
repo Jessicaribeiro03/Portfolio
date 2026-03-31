@@ -42,6 +42,18 @@ This project showcases my work, skills, and projects in Data Analysis.
 
 👉 [View Project](https://github.com/Jessicaribeiro03/java-task-manager)
 
+---
+
+### 🛒 E-commerce Data Analysis
+
+• Analyzed sales data using Python, Pandas, and Matplotlib  
+• Identified revenue trends and top-selling products  
+• Generated insights to support data-driven decisions  
+• Created visualizations to communicate results effectively  
+
+👉 [View Project](https://github.com/Jessicaribeiro03/ecommerce-data-analysis)
+
+
 ## 🛠️ Skills
 
 - Python (Pandas, Matplotlib)
